@@ -1,0 +1,14 @@
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\LetMePlayFFS.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\LetMePlayFFS.exe
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\LetMePlayFFS.pdb
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.exe
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.pdb
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\MetroFramework.dll
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\MetroFramework.Design.dll
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\bin\Debug\MetroFramework.Fonts.dll
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\LetMePlayFFS\LetMePlayFFS\obj\Debug\LetMePlayFFS.csproj.ResolveComReference.cache
