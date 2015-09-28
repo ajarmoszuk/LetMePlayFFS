@@ -182,6 +182,7 @@
             this.metroComboBox1.TabIndex = 16;
             this.metroComboBox1.UseSelectable = true;
             this.metroComboBox1.ValueMember = "1";
+            this.metroComboBox1.SelectedIndex = 1;
             // 
             // metroLabel8
             // 
