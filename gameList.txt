@@ -7,7 +7,7 @@ arma2
 arma3
 hl2
 hl
-gtav
+GTA5
 GTAIV
 gta_sa
 gta-vc
