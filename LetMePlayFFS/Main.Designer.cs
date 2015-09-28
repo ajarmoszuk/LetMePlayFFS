@@ -182,7 +182,6 @@
             this.metroComboBox1.TabIndex = 16;
             this.metroComboBox1.UseSelectable = true;
             this.metroComboBox1.ValueMember = "1";
-            this.metroComboBox1.SelectedIndex = 1;
             // 
             // metroLabel8
             // 
@@ -272,9 +271,9 @@
             this.metroLabel4.FontSize = MetroFramework.MetroLabelSize.Small;
             this.metroLabel4.Location = new System.Drawing.Point(164, 19);
             this.metroLabel4.Name = "metroLabel4";
-            this.metroLabel4.Size = new System.Drawing.Size(23, 15);
+            this.metroLabel4.Size = new System.Drawing.Size(25, 15);
             this.metroLabel4.TabIndex = 22;
-            this.metroLabel4.Text = "v1.1";
+            this.metroLabel4.Text = "v1.2";
             // 
             // notifyIcon1
             // 

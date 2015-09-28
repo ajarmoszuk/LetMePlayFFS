@@ -29,6 +29,12 @@ namespace LetMePlayFFS
         public Main()
         {
             InitializeComponent();
+            if (File.Exists(@"customMood.txt"))
+            {
+                metroToggle1.Checked = false;
+                metroTextBox1.Visible = true;
+                metroLabel9.Visible = true;
+            }
         }
 
 

@@ -27,7 +27,7 @@ namespace LetMePlayFFS
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
-            string sUrlToReadFileFrom = "https://raw.githubusercontent.com/delta360/LetMePlayFFS/master/LetMePlayFFS/bin/Release/gameList.txt";
+            string sUrlToReadFileFrom = "https://raw.githubusercontent.com/delta360/LetMePlayFFS/master/gameList.txt";
             int iLastIndex = sUrlToReadFileFrom.LastIndexOf('/');
             string sDownloadFileName = sUrlToReadFileFrom.Substring(iLastIndex + 1, (sUrlToReadFileFrom.Length - iLastIndex - 1));
             string sFilePathToWriteFileTo = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + "\\" + sDownloadFileName;
