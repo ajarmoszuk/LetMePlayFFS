@@ -96,7 +96,8 @@ BlackOps3
 Cities
 dearesther
 Democracy3
-fc3
+farcry3
+farcry3_d3d11
 fc3_blooddragon
 fc3_blooddragon_d3d11
 EFLC
