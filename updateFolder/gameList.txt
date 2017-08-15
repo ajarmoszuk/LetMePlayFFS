@@ -119,3 +119,4 @@ AstronautsGame-Win64-Shipping
 This War of Mine
 TombRaider
 XcomGame
+Overwatch
